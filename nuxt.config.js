@@ -59,6 +59,6 @@ export default {
     extend (config, ctx) {
     },
 
-    publicPath: '/481-Project/'
+    publicPath: '/481-Project/_nuxt/'
   }
 }
