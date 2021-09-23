@@ -31,7 +31,7 @@
     </div>
     <div class="make-closer-plox playlist-description" style="min-height: 400px">
       <div v-if="highlighted == 'Core'">
-        <img src="/gun.png" width="200px" style="display:block; margin:auto">
+        <img src="gun.png" width="200px" style="display:block; margin:auto">
         <h2 style="display:block; text-align: center;">
           Core
         </h2>
@@ -42,7 +42,7 @@
         </p>
       </div>
       <div v-else-if="highlighted == 'Hardcore'">
-        <img src="/gun.png" width="200px" style="display:block; margin:auto">
+        <img src="gun.png" width="200px" style="display:block; margin:auto">
         <h2 style="display:block; text-align: center;">
           Hardcore
         </h2>
@@ -53,7 +53,7 @@
         </p>
       </div>
       <div v-else-if="highlighted == 'Party Games'">
-        <img src="/gun.png" width="200px" style="display:block; margin:auto">
+        <img src="gun.png" width="200px" style="display:block; margin:auto">
         <h2 style="display:block; text-align: center;">
           Party Games
         </h2>
@@ -64,7 +64,7 @@
         </p>
       </div>
       <div v-else-if="highlighted == 'Team Deathmatch'">
-        <img src="/gun.png" width="200px" style="display:block; margin:auto">
+        <img src="gun.png" width="200px" style="display:block; margin:auto">
         <h2 style="display:block; text-align: center;">
           Team Deathmatch
         </h2>
@@ -77,7 +77,7 @@
         </p>
       </div>
       <div v-else-if="highlighted == 'Free-For-All'">
-        <img src="/gun.png" width="200px" style="display:block; margin:auto">
+        <img src="gun.png" width="200px" style="display:block; margin:auto">
         <h2 style="display:block; text-align: center;">
           Free-For-All
         </h2>
@@ -90,7 +90,7 @@
         </p>
       </div>
       <div v-else-if="highlighted == 'Domination'">
-        <img src="/gun.png" width="200px" style="display:block; margin:auto">
+        <img src="gun.png" width="200px" style="display:block; margin:auto">
         <h2 style="display:block; text-align: center;">
           Domination
         </h2>
@@ -103,7 +103,7 @@
         </p>
       </div>
       <div v-else-if="highlighted == 'War'">
-        <img src="/gun.png" width="200px" style="display:block; margin:auto">
+        <img src="gun.png" width="200px" style="display:block; margin:auto">
         <h2 style="display:block; text-align: center;">
           War
         </h2>
@@ -116,7 +116,7 @@
         </p>
       </div>
       <div v-else-if="highlighted == 'Ground War: War'">
-        <img src="/gun.png" width="200px" style="display:block; margin:auto">
+        <img src="gun.png" width="200px" style="display:block; margin:auto">
         <h2 style="display:block; text-align: center;">
           Ground War: War
         </h2>
@@ -129,7 +129,7 @@
         </p>
       </div>
       <div v-else-if="highlighted == 'Ground War: Mosh Pit'">
-        <img src="/gun.png" width="200px" style="display:block; margin:auto">
+        <img src="gun.png" width="200px" style="display:block; margin:auto">
         <h2 style="display:block; text-align: center;">
           Ground War: Mosh Pit
         </h2>
@@ -142,7 +142,7 @@
         </p>
       </div>
       <div v-else-if="highlighted == 'Objective Mosh Pit'">
-        <img src="/gun.png" width="200px" style="display:block; margin:auto">
+        <img src="gun.png" width="200px" style="display:block; margin:auto">
         <h2 style="display:block; text-align: center;">
           Objective Mosh Pit
         </h2>
@@ -155,7 +155,7 @@
         </p>
       </div>
       <div v-else-if="highlighted == 'Search and Destroy'">
-        <img src="/gun.png" width="200px" style="display:block; margin:auto">
+        <img src="gun.png" width="200px" style="display:block; margin:auto">
         <h2 style="display:block; text-align: center;">
           Search and Destroy
         </h2>
@@ -168,7 +168,7 @@
         </p>
       </div>
       <div v-else-if="highlighted == 'Kill Confirmed'">
-        <img src="/gun.png" width="200px" style="display:block; margin:auto">
+        <img src="gun.png" width="200px" style="display:block; margin:auto">
         <h2 style="display:block; text-align: center;">
           Kill Confirmed
         </h2>
@@ -181,7 +181,7 @@
         </p>
       </div>
       <div v-else-if="highlighted == 'Ground War: Mosh Pit HC'">
-        <img src="/gun.png" width="200px" style="display:block; margin:auto">
+        <img src="gun.png" width="200px" style="display:block; margin:auto">
         <h2 style="display:block; text-align: center;">
           Ground War: Mosh Pit HC
         </h2>
@@ -194,7 +194,7 @@
         </p>
       </div>
       <div v-else-if="highlighted == 'Infected'">
-        <img src="/gun.png" width="200px" style="display:block; margin:auto">
+        <img src="gun.png" width="200px" style="display:block; margin:auto">
         <h2 style="display:block; text-align: center;">
           Infected
         </h2>
@@ -207,7 +207,7 @@
         </p>
       </div>
       <div v-else-if="highlighted == 'Dogfight'">
-        <img src="/gun.png" width="200px" style="display:block; margin:auto">
+        <img src="gun.png" width="200px" style="display:block; margin:auto">
         <h2 style="display:block; text-align: center;">
           Dogfight
         </h2>
@@ -220,7 +220,7 @@
         </p>
       </div>
       <div v-else-if="highlighted == 'Prop Hunt'">
-        <img src="/gun.png" width="200px" style="display:block; margin:auto">
+        <img src="gun.png" width="200px" style="display:block; margin:auto">
         <h2 style="display:block; text-align: center;">
           Prop Hunt
         </h2>
@@ -233,7 +233,7 @@
         </p>
       </div>
       <div v-else-if="highlighted == 'Gun Game'">
-        <img src="/gun.png" width="200px" style="display:block; margin:auto">
+        <img src="gun.png" width="200px" style="display:block; margin:auto">
         <h2 style="display:block; text-align: center;">
           Gun Game
         </h2>
@@ -246,7 +246,7 @@
         </p>
       </div>
       <div v-else-if="highlighted == 'HQ 24/7'">
-        <img src="/gun.png" width="200px" style="display:block; margin:auto">
+        <img src="gun.png" width="200px" style="display:block; margin:auto">
         <h2 style="display:block; text-align: center;">
           HQ 24/7
         </h2>
@@ -259,7 +259,7 @@
         </p>
       </div>
       <div v-else-if="highlighted == 'Sandbox 24/7'">
-        <img src="/gun.png" width="200px" style="display:block; margin:auto">
+        <img src="gun.png" width="200px" style="display:block; margin:auto">
         <h2 style="display:block; text-align: center;">
           24/7 Sandbox
         </h2>
@@ -272,7 +272,7 @@
         </p>
       </div>
       <div v-else-if="highlighted == 'Hardpoint'">
-        <img src="/gun2.png" width="200px" style="display:block; margin:auto">
+        <img src="gun2.png" width="200px" style="display:block; margin:auto">
         <h2 style="display:block; text-align: center;">
           Hardpoint
         </h2>

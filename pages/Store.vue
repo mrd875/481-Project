@@ -96,43 +96,43 @@ export default {
   data () {
     return {
       storeItems: [{
-        pic: '/cp.png',
+        pic: 'cp.png',
         name: '100 CoD Points',
         desc: '100 CoD Points',
         price: '$1'
       },
       {
-        pic: '/shovel.png',
+        pic: 'shovel.png',
         name: 'German Shovel',
         desc: 'A German Shovel',
         price: '50 CoD Points'
       },
       {
-        pic: '/dress.png',
+        pic: 'dress.png',
         name: 'Medic Dress',
         desc: 'A German Shovel',
         price: '90 CoD Points'
       },
       {
-        pic: '/helm.png',
+        pic: 'helm.png',
         name: 'Helmet',
         desc: 'A Helmet',
         price: '40 CoD Points'
       },
       {
-        pic: '/helm2.png',
+        pic: 'helm2.png',
         name: 'Helmet',
         desc: 'A Helmet',
         price: '45 CoD Points'
       },
       {
-        pic: '/gun.png',
+        pic: 'gun.png',
         name: 'PPSH',
         desc: 'A PPSH',
         price: '205 CoD Points'
       },
       {
-        pic: '/gun2.png',
+        pic: 'gun2.png',
         name: 'MP40',
         desc: 'A PPSH',
         price: '205 CoD Points'

@@ -167,7 +167,7 @@
             <h2 style="margin-left: 50px;">
               News
             </h2>
-            <img src="/paper.png" width="200px;">
+            <img src="paper.png" width="200px;">
           </div>
           <div class="col-5">
             <p>Today's news has new items in the shop to purchase and double XP in the 24/7 Sandbox playlist!<br><br>Have fun!</p>
