@@ -57,6 +57,8 @@ export default {
     ** You can extend webpack config here
     */
     extend (config, ctx) {
-    }
+    },
+
+    publicPath: '/481-Project/'
   }
 }
